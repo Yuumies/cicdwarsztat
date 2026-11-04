@@ -58,3 +58,6 @@ Lint and typecheck 17s
 UI test	2m 49s 	
 API tests 32s 	
 4m 11s 	
+
+Zadanie 6
+Zależy od krytyczności, więc raz blokować raz ostrzegać
