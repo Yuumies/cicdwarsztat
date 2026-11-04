@@ -55,7 +55,7 @@ jobs:
               - 'playwright.config.ts'
               - 'package.json'
               - 'package-lock.json'
-              - '.github/workflows/**
+              - '.github/workflows/**'
   quality:
     name: Lint and typecheck
     runs-on: ubuntu-latest
