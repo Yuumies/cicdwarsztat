@@ -61,3 +61,6 @@ API tests 32s
 
 Zadanie 6
 Zależy od krytyczności, więc raz blokować raz ostrzegać
+
+Zadanie 9 shardy
+shardy 1:35 rdzenie 1:50
