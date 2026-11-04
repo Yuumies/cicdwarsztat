@@ -7,28 +7,29 @@ do sekundy.
 
 | Krok | Czas |
 |---|---|
-| Set up job | |
-| Checkout | |
-| Set up Node | |
-| Install dependencies | |
-| Install Playwright browsers | |
-| Unit tests | |
-| API tests | |
-| UI tests | |
-| Upload Playwright report | |
-| Post Set up Node | |
-| Post Checkout | |
-| Complete job | |
-| **Cały przebieg** | |
+| Set up job | 0|
+| Checkout |10 |
+| Set up Node |0 |
+| Install dependencies | 24|
+| Install Playwright browsers |15 |
+| Unit tests |0 |
+| API tests | 18|
+| UI tests | 137|
+| Upload Playwright report | 2|
+| Post Set up Node | 0|
+| Post Checkout | 0|
+| Complete job |1 |
+| **Cały przebieg** | 210|
 
 ## Czas do pierwszego czerwonego sygnału
 
 | Branch | Czas samego testu | Od startu przebiegu do informacji o błędzie |
 |---|---|---|
-| `demo/failing-unit` | | |
-| `demo/failing-search` | — | |
+| `demo/failing-unit` | 1| 60|
+| `demo/failing-search` | — |276|
 
 Co na `demo/failing-unit` stało się z testami API i UI:
+Nie zaczęły wykonały z powodu błędu w testach unit
 
 ## `demo/failing-lint` i `demo/failing-security`
 
