@@ -25,10 +25,11 @@ do sekundy.
 
 | Branch | Czas samego testu | Od startu przebiegu do informacji o błędzie |
 |---|---|---|
-| `demo/failing-unit` | | |
-| `demo/failing-search` | — | |
+| `demo/failing-unit` | 1| 60|
+| `demo/failing-search` | — |276|
 
 Co na `demo/failing-unit` stało się z testami API i UI:
+Nie zaczęły wykonały z powodu błędu w testach unit
 
 ## `demo/failing-lint` i `demo/failing-security`
 
