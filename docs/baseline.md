@@ -49,3 +49,12 @@ Nie zaczęły wykonały z powodu błędu w testach unit
 ## Pomiary z kolejnych zadań
 
 Tu dopisujesz pomiary i odpowiedzi z kolejnych zadań, pod nagłówkiem z numerem zadania.
+
+Zadanie 4
+total 3:16
+Build	12s 	
+Unit tests 21s 	
+Lint and typecheck 17s 	
+UI test	2m 49s 	
+API tests 32s 	
+4m 11s 	
